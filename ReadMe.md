@@ -1,0 +1,3 @@
+Repository for Swanton Pacific Ranch EE Senior Project. TinySA program to record frequency and power of peak in the spectrum (PlotScan.py). Other scripts are supplementary examples to show other functionalities of TinySA. Recommend creating a virtual environment and pip installing requirements.txt to get started.
+
+Need: USB GPS antenna using u-blox 7 encoding. TinySA (Ultra was used, should work with any). Python 3.14.
